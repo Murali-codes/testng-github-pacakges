@@ -1,0 +1,23 @@
+{
+  "name": "@Murali-codes/testing-github-packages",
+  "version": "1.0.0",
+  "description": "just testing to know github packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Murali-codes/testng-github-pacakges.git"
+  },
+  "keywords": [
+    "test",
+    "github-packages"
+  ],
+  "author": "Murali Krishna Gundoji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Murali-codes/testng-github-pacakges/issues"
+  },
+  "homepage": "https://github.com/Murali-codes/testng-github-pacakges#readme"
+}
