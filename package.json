@@ -4,7 +4,7 @@
   "description": "just testing to know github packages",
   "main": "index.js",
   "publishConfig": {
-    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+    "@Murali-codes:registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "test": "exit 0"
